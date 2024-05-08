@@ -1,0 +1,5 @@
+{
+  "mongo_url": "mongodb://localhost:27017/mobile_app",
+  "mongo_username": "xiaoyu",
+  "mongo_password": "YDYY123456"
+}
