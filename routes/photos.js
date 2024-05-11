@@ -39,7 +39,7 @@ router.get('/getPhotoList', async (req, res, next) => {
 })
 
 // 删除图片
-router.post('/deletePhoto', async (req, res, next) => {
+router.delete('/delete', async (req, res, next) => {
   const { _id } = req.body
 
   try {
